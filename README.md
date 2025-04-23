@@ -1,14 +1,21 @@
 # Tableau Projects
 
-## Abstract
+
+
+<h2><p align="center">Global Superstore 2016</p></h2>
+
+
+
+
+### Abstract
 Tableau was used to construct 4 different visualisations to aid in the analysis of a global superstore. Each visual was contructed to correspond to a particular area of the business which could be analysed further. All visualisations were then combined onto a single dashboard for easy viewing.
 
-## Dataset
+### Dataset
 - **Source** global_super_2016.xlsx
 - **Relevant Fields:**
     - Category, Segment, Region, 'Ship Mode', 'Ship Date', 'Order Date', Sales, Quantity, Profit, 'Shipping Cost', 'Order Priority'
  
-## Visualisations
+### Visualisations
 1. Sales by Region
     - Type: Bars (Column)
     - Shows Sales as a function of Region with sorting applied such that Regions appear in a descending order of sales.
@@ -29,7 +36,7 @@ Tableau was used to construct 4 different visualisations to aid in the analysis 
       - Medium
       - Low
      
-## Dashboard
+### Dashboard
 Aforementioned visualisations were then combined onto a single Tableau Dashboard wherein filters associated with a given visualisation were then linked to other visualisations. Every visual on the dashboard then responded directly to any changes made to filtering options for the following fields and derived fields:
   - Category
   - 'Year of Order Date'
