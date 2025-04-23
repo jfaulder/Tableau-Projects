@@ -36,12 +36,12 @@ Tableau was used to construct 4 different visualisations to aid in the analysis 
       - Medium
       - Low
 
-![mySQL](assets/google site Tableau carousel slide08.png)(https://www.apple.com/uk/)
+<!--![mySQL](assets/google site Tableau carousel slide08.png)(https://www.apple.com/uk/)
 ![mySQL](assets/google site Tableau carousel slide09.png)(https://www.apple.com/uk/)
 ![mySQL](assets/google site Tableau carousel slide10.png)(https://www.apple.com/uk/)
 ![mySQL](assets/google site Tableau carousel slide11.png)(https://www.apple.com/uk/)
 ![mySQL](assets/google site Tableau carousel slide12 Tableau desktop fullscreen.png)(https://www.apple.com/uk/)
-
+-->
      
 ### Dashboard
 Aforementioned visualisations were then combined onto a single Tableau Dashboard wherein filters associated with a given visualisation were then linked to other visualisations. Every visual on the dashboard then responded directly to any changes made to filtering options for the following fields and derived fields:
