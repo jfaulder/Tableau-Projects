@@ -36,7 +36,13 @@ Tableau was used to construct 4 different visualisations to aid in the analysis 
       - Medium
       - Low
 
-[mySQL](assets/google_site_Tableau_carousel_slide08.png)(https://www.apple.com/uk/)
+
+
+[mySQL](assets/google_site_Tableau_carousel_slide08.png)
+
+
+
+
 <!--!
 ![mySQL](assets/google_site_Tableau_carousel_slide09.png)(https://www.apple.com/uk/)
 ![mySQL](assets/google_site_Tableau_carousel_slide10.png)(https://www.apple.com/uk/)
