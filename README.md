@@ -36,11 +36,12 @@ Tableau was used to construct 4 different visualisations to aid in the analysis 
       - Medium
       - Low
 
-<!--![mySQL](assets/google site Tableau carousel slide08.png)(https://www.apple.com/uk/)
-![mySQL](assets/google site Tableau carousel slide09.png)(https://www.apple.com/uk/)
-![mySQL](assets/google site Tableau carousel slide10.png)(https://www.apple.com/uk/)
-![mySQL](assets/google site Tableau carousel slide11.png)(https://www.apple.com/uk/)
-![mySQL](assets/google site Tableau carousel slide12 Tableau desktop fullscreen.png)(https://www.apple.com/uk/)
+[mySQL](assets/google_site_Tableau_carousel_slide08.png)(https://www.apple.com/uk/)
+<!--!
+![mySQL](assets/google_site_Tableau_carousel_slide09.png)(https://www.apple.com/uk/)
+![mySQL](assets/google_site_Tableau_carousel_slide10.png)(https://www.apple.com/uk/)
+![mySQL](assets/google_site_Tableau_carousel_slide11.png)(https://www.apple.com/uk/)
+![mySQL](assets/google_site_Tableau_carousel_slide12_Tableau_desktop_fullscreen.png)(https://www.apple.com/uk/)
 -->
      
 ### Dashboard
