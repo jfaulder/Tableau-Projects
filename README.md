@@ -6,7 +6,6 @@
 
 
 
-
 ### Abstract
 Tableau was used to construct 4 different visualisations to aid in the analysis of a global superstore. Each visual was contructed to correspond to a particular area of the business which could be analysed further. All visualisations were then combined onto a single dashboard for easy viewing.
 
